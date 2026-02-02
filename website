@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title>Events</title>
+        <link rel = "icon" href ="img/date.png">
+
+    </head>
+    <body bgcolor="black" style = "color:white;">
+        <center>
+        <h1>Upcoming Events 🗓️</h1>
+        <p> Dont's miss any of your important events.Stay Updated</p>
+        </center>
+        <hr>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sed ad voluptatum explicabo tempore deleniti maiores perspiciatis, commodi beatae qui! Repellat, rem suscipit laborum ad reiciendis nulla perspiciatis perferendis dolor eligendi? 100
+        </p>
+        <center>
+        <img src ="img/event1.png">
+        <h1>Photo Gallary</h1>
+        <h2>Free Entry| Free Food | pets are not Allowed</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At praesentium blanditiis non odit minima sint ipsa libero quas! Porro, magni ea? Nisi vitae dignissimos perferendis perspiciatis qui similique amet. Ipsa iusto ullam quis quod quidem. Tenetur, quos enim officiis facere ex accusamus earum illum asperiores nulla laudantium maxime id nisi!
+        </p>
+        </center>
+
+        <center>
+        <img src="img/event2.png">
+        <h1>
+        <a  href = "https://www.myntra.com/">Fashion Store</a>
+       </h1>
+        <h2>Fre Entry| Free Food | pets are not Allowed</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At praesentium blanditiis non odit minima sint ipsa libero quas! Porro, magni ea? Nisi vitae dignissimos perferendis perspiciatis qui similique amet. Ipsa iusto ullam quis quod quidem. Tenetur, quos enim officiis facere ex accusamus earum illum asperiores nulla laudantium maxime id nisi!
+        </p>
+        </center>
+        <hr>
+        <center></center>
+        <h1>Contact</h1>
+        <h2>9042596943 | tharaspriya@gmail.com</h2>
+        <p>19c/4 k.k colony ,rajaji nagar, ariyalur ,621713</p>
+        </center>
+        
+        
+
+    </body>
+</html>
